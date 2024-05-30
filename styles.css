@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+table, th, td{
+	width : 500px;
+	border : 2px solid black;
+	border-collapse : collapse;
+}
+#row1{
+	color : white;
+	text-align : left;
+	background-color : #c0504d;
+	
+}
+#row2{
+	color : white;
+	background-color : #da9694;
+}
+#row3{
+	background-color : #f2dcdb;
+}
+#row4{
+	background-color : #d9d9d9;
+}
+.right{
+	text-align : right;
+}
